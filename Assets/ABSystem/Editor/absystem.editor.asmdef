@@ -1,0 +1,15 @@
+{
+    "name": "absystem.editor",
+    "references": [
+        "GUID:5fb14cb69d6be474f962b9083e2ef797"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
